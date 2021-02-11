@@ -107,7 +107,7 @@ This project and the (upstream) boilerplate code are available under the MIT lic
 For Project Maintainers
 -----------------------
 
-To publish a universal wheel to pypi:
+To publish a universal wheel to pypi, update the version number in setup.py, then:
 
     pip3 install twine
     rm -rf dist
