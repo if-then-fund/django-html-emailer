@@ -11,7 +11,7 @@ setup(
   description='Utility for sending HTML emails from Django.',
   long_description=open("README.md", encoding='utf-8').read(),
   long_description_content_type='text/markdown',
-  url='https://github.com/if-then-fund/django-html-emailer',
+  url='https://github.com/govtrack/django-html-emailer',
   keywords="Django email HTML",
   classifiers=[ # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     'Intended Audience :: Developers',
